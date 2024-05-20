@@ -8,5 +8,4 @@ I am currently running Proxmox in my home lab where I do my experiments. Most of
 I hope to keep this place fresh and informative…
 
 ### Skills
-ITSupport	| Linux	| Kubernetes | Docker |	Proxmox |	Google GKE | Google Cloud	SQL |	GitHub | ESXi | Fortinet
-
+ITSupport | Linux | Proxmox | Kubernetes | Docker | SRE | Fortinet | SQL | GitHub | GitLab | ISO/IEC 27001
