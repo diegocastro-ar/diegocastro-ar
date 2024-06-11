@@ -8,4 +8,4 @@ I am currently running Proxmox in my home lab where I do my experiments. Most of
 I hope to keep this place fresh and informative…
 
 ### Skills
-ITSupport | Linux | Proxmox | Kubernetes | Docker | SRE | Fortinet | SQL | GitHub | GitLab | ISO/IEC 27001
+Systems Administrator | IT Infrastructure | Internal Auditor ISO/IEC 27001 | Networking | Linux & Windows servers | Proxmox | Kubernetes | Docker | SRE | Fortinet | SQL | Git
